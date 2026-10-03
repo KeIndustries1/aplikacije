@@ -1,0 +1,16 @@
+# kreator: šta ne ide na GitHub
+node_modules/
+dist/
+**/android/app/build/
+**/android/build/
+**/android/.gradle/
+**/android/.idea/
+**/android/app/release/
+**/ios/App/build/
+**/ios/DerivedData/
+**/prodavnice/nalozi.txt
+**/prodavnice/screenshots/
+*.jks
+*.keystore
+*.p8
+.DS_Store
