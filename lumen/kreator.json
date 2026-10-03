@@ -1,0 +1,10 @@
+{
+  "name": "Lumen",
+  "appName": "Lumen",
+  "appId": "rs.lumen.klijent",
+  "slug": "lumen",
+  "brandColor": "#c9a27e",
+  "createdAt": "2026-10-03T12:00:00.000Z",
+  "workers": [],
+  "note": "Kopija klijent šablona, samo za iOS build u oblaku. Ne klikći Uredi na ovoj aplikaciji."
+}
