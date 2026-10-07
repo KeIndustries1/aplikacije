@@ -1,0 +1,26 @@
+Thank you for the review. Here are the requested details.
+
+1. Screen recording: attached (recorded on a physical iPhone, starting from the home screen and app launch, showing login, the catalog, designing and ordering, the order status, notifications and settings). The account deletion option is in Settings > Delete account.
+
+2. Purpose and audience:
+Deja buketi is the ordering app for the customers of Deja buketi, a handmade bouquet studio in Belgrade, Serbia. Customers browse bouquets with prices, or design their own bouquet step by step with a live preview, choose a date and pickup or delivery, and send the order. They get an order number and follow its status. It replaces ordering through Instagram messages and phone calls.
+
+3. How to access the main features:
+Sign in with Apple, Google, or email and password. Demo account:
+Email: [DEMO EMAIL]
+Password: [DEMO PASSWORD]
+After login, open the Catalog tab, tap a product (or "Napravi svoj buket"), then "Order", choose a date, fill in the details and send. Orders are in the Orders tab, announcements in Notifications, and account options in Settings, including "Delete account".
+
+4. Payments:
+The app does not process payments. After ordering, the customer sees the shop's bank account details and pays a 50% deposit by an ordinary bank transfer outside the app; the rest is paid on pickup or delivery. The products are physical goods made by hand and delivered outside the app (guideline 3.1.3(e)), so in-app purchase does not apply.
+
+5. External services used:
+- Supabase: authentication, database and storage
+- Sign in with Apple and Google Sign-In: authentication
+- Firebase Cloud Messaging and Apple Push Notification service: push notifications
+No payment processors, advertising or AI services.
+
+6. Regional differences:
+The app works the same in all regions. The interface is available in Serbian and English.
+
+User-generated content: a customer can add an optional wish note and an inspiration photo to their own order. Both are visible only to the shop owner. There is no public content or sharing between users, so reporting and blocking are not applicable.

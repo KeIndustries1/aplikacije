@@ -1,0 +1,31 @@
+NAME (max 30)
+Deja buketi
+
+SUBTITLE (max 30)
+Order bouquets
+
+PROMOTIONAL TEXT (max 170)
+Order from Deja buketi in Belgrade: design your own bouquet and see it as you build it, or pick one from the catalog.
+
+KEYWORDS (max 100)
+bouquet,handmade,flowers,roses,gift,flower box,keychain,order,belgrade
+
+DESCRIPTION
+Deja buketi in Belgrade now has its own app. Pick a ready-made bouquet or design your own, step by step, and see how it looks and what it costs as you go.
+
+WHAT YOU CAN DO
+• Browse the catalog with prices (bouquets)
+• Design your own: packaging, types and colours, quantity and extras, with a live drawing
+• Choose a date and pickup or delivery
+• Pay a 50% deposit by bank transfer, with payment details shown right after ordering
+• Get an order number and follow its status (confirmed, in progress, ready)
+• Get notified when the status changes
+
+It all started with one bouquet for my mom. She loves flowers but is allergic to them, so in April 2024 I made her a bouquet of satin roses that lasts forever. She loved it so much that I opened Instagram and TikTok the same evening, and three days later the first order arrived. Every bouquet is still handmade, with care for every detail. And the name? My name is Andrea, but as a little girl I said "Deja" instead, and the nickname stayed.
+Address: Braničevska 1, Beograd
+
+PRIVACY POLICY URL
+https://lumen-radnik.vercel.app/privacy.html
+
+SUPPORT URL
+https://lumen-radnik.vercel.app/privacy.html

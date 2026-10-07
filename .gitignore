@@ -11,6 +11,8 @@ dist/
 **/prodavnice/nalozi.txt
 **/prodavnice/screenshots/
 *.jks
+*.aab
+*.apk
 *.keystore
 *.p8
 .DS_Store

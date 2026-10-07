@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Deja buketi</string>
+    <string name="title_activity_main">Deja buketi</string>
+    <string name="package_name">rs.dejabuketi.app</string>
+    <string name="custom_url_scheme">rs.dejabuketi.app</string>
+</resources>
