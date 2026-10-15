@@ -2,18 +2,19 @@ NAZIV (max 30)
 Deja buketi
 
 KRATAK OPIS (max 80)
-Deja buketi: napravi svoj buket ili izaberi iz kataloga, bez poruka.
+Deja buketi: zakaži termin za par sekundi, bez poziva.
 
 PUN OPIS
-Deja buketi sada ima svoju aplikaciju. Izaberi gotov buket iz kataloga ili napravi svoj, korak po korak, i odmah vidi kako izgleda i koliko košta.
+Deja buketi sada ima svoju aplikaciju. Izaberi uslugu, vidi slobodne termine i zakaži za par sekundi, bez poziva i čekanja na odgovor.
 
 Šta možeš u aplikaciji:
-• Katalog sa cenama (buketi)
-• Napravi svoj: pakovanje, vrste i boje, količina i dodaci, uz crtež koji se menja dok biraš
-• Izbor datuma i lično preuzimanje ili dostava
-• Avans 50% uplatom na račun, podaci za uplatu odmah posle porudžbine
-• Broj porudžbine i praćenje statusa (potvrđeno, u izradi, spremno)
-• Obaveštenja kad se status promeni
+• Pregled svih usluga i cena (usluge)
+• Slobodni termini uživo, za dan koji ti odgovara
+• Potvrda odmah posle zakazivanja
+• Podsetnik dan pre i par sati pre termina
+• Obaveštenje ako se termin pomeri ili otkaže
+• Pregled tvojih zakazanih i prošlih termina
+• Vesti i obaveštenja na jednom mestu
 
 Sve je počelo jednim buketom za mamu.
 Deja Buketi nastao je 2024. godine, sasvim spontano.
